@@ -12,3 +12,8 @@ function displaySkill(skill, isCool) {
 console.log("Evan Norton".toUpperCase());
 console.log("Career: Full Stack Developer");
 console.log("Description: A pretty cool dude");
+console.log("My Interests (in order)");
+console.log("* wife");
+console.log("* music");
+console.log("* programming");
+console.log("* video games");
