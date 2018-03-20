@@ -1,6 +1,4 @@
 # A Console Resume
-Covalence
-
 You will create a resume that exists entirely within the developer console.
 
 ## Objectives
